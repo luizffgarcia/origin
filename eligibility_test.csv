@@ -1,0 +1,6 @@
+Email,Country,BirthDate,Salary
+jane.doe@example.com,US,1985-02-15,50000,
+john.smith@example.com,CA,,55000,
+alice.jones@example.com,GB,1990-07-22,,
+bob.brown@example.com,US,,,
+emily.white@example.com,AU,1992-11-30,60000,

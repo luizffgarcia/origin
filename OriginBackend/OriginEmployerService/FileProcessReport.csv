@@ -1,0 +1,6 @@
+IsSuccess,Email,Message
+True,jane.doe@example.com,Updated existing user.
+True,john.smith@example.com,Updated existing user.
+True,alice.jones@example.com,Updated existing user.
+True,bob.brown@example.com,Updated existing user.
+True,emily.white@example.com,Added new user.
